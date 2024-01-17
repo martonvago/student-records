@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<file>
+    <header>
+        <module_code>DT2021T1</module_code>
+        <module_name>Introduction to Database Technology</module_name>
+        <tutor_name>Jane Doe</tutor_name>
+        <marking_date>22/10/2020</marking_date>
+    </header>
+    <record>
+        <student_id>86385749</student_id>
+        <mark>45</mark>
+    </record>
+    <record>
+        <student_id>97445656</student_id>
+        <mark>78</mark>
+    </record>
+    <record>
+        <student_id>13456397</student_id>
+        <mark>99</mark>
+    </record>
+    <record>
+        <student_id>57547855</student_id>
+        <mark>12</mark>
+    </record>
+    <record>
+        <student_id>98754655</student_id>
+        <mark>67</mark>
+    </record>
+    <record>
+        <student_id>43536473</student_id>
+        <mark>34</mark>
+    </record>
+    <record>
+        <student_id>98643566</student_id>
+        <mark>56</mark>
+    </record>
+    <record>
+        <student_id>23456433</student_id>
+        <mark>76</mark>
+    </record>
+    <record>
+        <student_id>78009876</student_id>
+        <mark>87</mark>
+    </record>
+    <record>
+        <student_id>34566487</student_id>
+        <mark>87</mark>
+    </record>
+</file>
